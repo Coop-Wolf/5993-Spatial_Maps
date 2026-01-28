@@ -6,7 +6,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [33.8719, -98.5263]
+        "coordinates": [-98.5263, 33.8719]
       },
       "properties": {
         "name": "Coffee Shop"
@@ -17,7 +17,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [33.8725, -98.5281]
+        "coordinates": [-98.5281, 33.8725]
       },
       "properties": {
         "name": "School"
@@ -28,7 +28,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [33.8731, -98.5302]
+        "coordinates": [-98.5302, 33.8731]
       },
       "properties": {
         "name": "Bookstore"
@@ -41,9 +41,9 @@
         "type": "MultiLineString",
         "coordinates": [
           [
-            [33.8719, -98.5263],
-            [33.8725, -98.5281],
-            [33.8731, -98.5302]
+            [-98.5263, 33.8719],
+            [-98.5281, 33.8725],
+            [-98.5302, 33.8731]
           ]
         ]
       },
@@ -57,18 +57,18 @@
       "geometry": {
         "type": "Polygon",
         "coordinates": [
-[
-  [33.8710, -98.5310],
-  [33.8740, -98.5310],
-  [33.8740, -98.5250],
-  [33.8710, -98.5310]
-]
-
+          [
+            [-98.5310, 33.8710],
+            [-98.5310, 33.8740],
+            [-98.5250, 33.8740],
+            [-98.5310, 33.8710]
+          ]
         ]
       },
       "properties": {
         "name": "Bounding Box"
       }
     }
+
   ]
 }

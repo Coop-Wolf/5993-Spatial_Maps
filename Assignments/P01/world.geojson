@@ -28,7 +28,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-98.5302, 33.8731]
+        "coordinates": [33.8731, -98.5302]
       },
       "properties": {
         "name": "Bookstore"

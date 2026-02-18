@@ -46,6 +46,8 @@ Each threat has:
 - Display it using Folium
 - Add your base location as a point marker
 
+![Map](screenshots/Milestone1.png)
+
 ---
 
 ## 📏 Milestone 2 — Distance & Bearing
@@ -56,6 +58,8 @@ Each threat has:
 - Compute the distance from each threat origin to your base
 - Identify the **closest threat**
 - Display threat origins as points
+
+![Map](screenshots/Milestone2.png)
 
 ---
 
@@ -76,6 +80,8 @@ You should clearly see:
 - Where they are headed
 - How paths differ by bearing and speed
 
+![Map](screenshots/Milestone3.png)
+
 ---
 
 ## 🧱 Milestone 4 — Intersections & Borders
@@ -93,6 +99,8 @@ You should clearly see:
 - `within`
 - distance thresholds
 
+![Map](screenshots/Milestone4.png)
+
 ---
 
 ## 💥 Milestone 5 — Damage Zones (The Bridge)
@@ -104,6 +112,7 @@ You should clearly see:
 - Buffer size depends on `threat_type`
 - Determine which countries fall within damage zones
 
+![Map](screenshots/Milestone5.png)
 
 ---
 
@@ -112,9 +121,10 @@ You should clearly see:
 
 | Files / Folders                  | Description                                                      |
 |----------------------------------|------------------------------------------------------------------|
-| **Screenshots/**                 | Stores screenshots of maps for each milestone.                   |
+| **screenshots/**                 | Stores screenshots of maps for each milestone.                   |
 | **json/**                        | Stores countries, and threats json files                         |
 | **html/**                        | Stores html files of generated maps.                             |
+| **csv/**                         | Stores csv files of statistics.                                  |
 | **config.py**                    | Contains global configuration variables.                         |
 | **Missile_Geometry.ipynb**       | Main notebook for Assignment.                                    |
 | **README.md**                    | Project documentation and instructions.                          |

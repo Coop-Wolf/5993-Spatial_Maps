@@ -1,0 +1,16 @@
+Threat ID,Country,Threat Type,Severity (%)
+T001,United States of America,alien,2.052
+T002,Canada,alien,1.22
+T002,United States of America,alien,0.203
+T003,Canada,alien,0.05
+T003,United States of America,alien,1.974
+T004,United States of America,kaiju,0.101
+T005,Mexico,kaiju,0.158
+T006,Mexico,alien,4.131
+T006,United States of America,alien,0.841
+T007,The Bahamas,alien,35.852
+T007,Cuba,alien,37.658
+T007,United States of America,alien,0.161
+T008,Mexico,airborne,1.912
+T009,United States of America,alien,2.052
+T010,United States of America,orbital,1.437

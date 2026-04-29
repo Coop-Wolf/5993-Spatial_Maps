@@ -4,3 +4,4 @@
 | :-: | -------------------------------------- | ---------------------------------------------------- |
 |  1  | [P01](./P01/Missile_Geometry.ipynb)    | [Missile Geometry](./P01/README.md)                  |
 |  2  | [P02](./P02)                           | [Data Exploration](./P02/README.md)                  |
+|  3  | [P02](./P03)                           | [Worldle](./P03/README.md)                           | 
